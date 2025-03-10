@@ -45,6 +45,9 @@ Click open ticket
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
 <br />
+
+<h3>Assign a new ticket</h3>
+
 As an end-user, create the following ticket <br/>
 entire mobile/online banking system is down <br/>
 
@@ -54,15 +57,20 @@ entire mobile/online banking system is down <br/>
 <br />
 As a Help Desk Agent (john), observe the ticket’s properties <br/>
 
+- <b>Priority</b> 
+- <b>Department</b>
+- <b>SLA</b>
+- <b>Assigned To</b>
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.4%20tickets.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.5observe%20ticket%20properties.PNG)
 <br />
 <br />
 Set Properties to the ticket<br/>
-Click Default SLA Plan
-Select Severity A (1 hour, 24/7)<br/>
-Online Banking Department<br/>
+- <b>Click Default SLA Plan</b> 
+- <b>Select Severity A (1 hour, 24/7)</b>
+- <b>Online Banking Department</b>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
 
@@ -74,126 +82,122 @@ Customers not able to access online banking <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.7update%20help%20topic.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+View the log of documentation <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.8view%20log%20of%20documentation.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Assign to the team Online Banking <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.9assign%20to%20a%20team.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+<h3>Assign a new ticket</h3>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+As an end-user, create the following ticket<br/>
+accounting department needs adobe upgrade, broken <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.1create%20ticket.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+As a Help Desk Agent (john), observe the ticket’s properties <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+- <b>Priority</b> 
+- <b>Department</b>
+- <b>SLA</b>
+- <b>Assigned To</b>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.2view%20ticket%20as%20john.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Set Properties to the ticket <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+- <b>Severity C (4 hours, 24/7)</b> 
+- <b>Support</b>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.3update%20sla.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Update the ticket  <br/>
+Customer will restart.  Will follow up with customer  <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.4update%20ticket.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Update ticket again  <br/>
+Restart fixed issue.  Closing out ticket <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.5update%20ticket%20again.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.6resolve%20ticket.PNG)
 
-![]()
 <br />
 <br />
-Lorem ipsum  <br/>
+Set status to Resolved  <br/>
+Click Close  <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.7close%20ticket.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+<h3>Assign a new ticket</h3>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+As an end-user, create the following ticket  <br/>
+CFO’s laptop will no longer turn on <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.1create%20ticket.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.2view%20ticket.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+As a Help Desk Agent (john), observe the ticket’s properties <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+- <b>Priority</b> 
+- <b>Department</b>
+- <b>SLA</b>
+- <b>Assigned To</b>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.3view%20ticket%20properties.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Set Properties to the ticket  <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+- <b>Severity B (4 hours, 24/7)</b> 
+- <b>Support</b>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.4sla.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Update Priority Level to Emergency  <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.5priority.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Update the ticket  <br/>
+Laptop not charging due to broken charger. Replaced broken charger with new charger.  Charging succesfully.
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.7update%20ticket.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+To resolve ticket, hover over current status (Open) <br/>
+Click Resolved <br/>
 
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.8resolve%20ticket.PNG)
 
-![]()
 <br />
 <br />
+Set status to Resolved <br/>
+Charger was broken and battery ran out of power. New charger resolved issue. <br/>
+Click Close <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.9close%20ticket.PNG)
+<br />
+<br />
+See there are no more tickets remaining <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.10%20no%20tickets.PNG)
+<br />
+<br />
+
 
 
 
