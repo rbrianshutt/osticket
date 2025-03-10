@@ -76,11 +76,14 @@ Set Properties to the ticket<br/>
 - <b>Select Severity A (1 hour, 24/7)</b>
 - <b>Online Banking Department</b>
 
+Click Update <br/>
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
 <br />
 <br />
 Update Help Topic  <br/>
 "Customers not able to access online banking" <br/>
+Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.7update%20help%20topic.PNG)
 <br />
@@ -117,17 +120,21 @@ Set Properties to the ticket <br/>
 - <b>Severity C (4 hours, 24/7)</b> 
 - <b>Support</b>
 
+Click Update <br/>
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.3update%20sla.PNG)
 <br />
 <br />
 Update the ticket  <br/>
 "Customer will restart.  Will follow up with customer"  <br/>
+Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.4update%20ticket.PNG)
 <br />
 <br />
 Update ticket again  <br/>
 "Restart fixed issue.  Closing out ticket" <br/>
+Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.5update%20ticket%20again.PNG)
 <br/>
