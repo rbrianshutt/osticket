@@ -1,7 +1,7 @@
 <h1>osTicket Configuration</h1>
-<p align="center">
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/osticket-logo1.png)
-</p>
+
 
 <h2>Description</h2>
 Lorem ipsum
@@ -9,16 +9,15 @@ Lorem ipsum
 
 <h2>Techonologies Used</h2>
 
-- <b>Azure</b> 
+- <b>Microsoft Azure</b> 
 - <b>Remote Desktop</b>
-- <b>Command line tools</b>
-- <b>Network Protocols (SSH, DHCP, DNS, RDP)</b>
-- <b>Wireshark</b>
+- <b>OsTicket</b>
+- <b></b>
+- <b></b>
 
 <h2>Operating Systems</h2>
 
 - <b>Windows 10 </b> 
-- <b>Ubuntu Server</b>
 
 <h2>Dependencies</h2>
 
@@ -93,15 +92,72 @@ Add knowledge base permissions  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/5.6%20added%20supreme%20admin.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+<h3>Configure Departments</h3>
+Admin Panel -> Agents -> Departments <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/6.1add%20department.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Name department SysAdmins  <br/>
+Parent set to Top Level Department  <br/>
 
-![]()
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/6.2%20create%20sysadmins.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/6.3created.PNG)
 <br />
 <br />
+<h3>Configure Teams</h3>
+Admin Panel -> Agents -> Teams (Pull Agents from different Departments)  <br/>
 
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/7.1add%20new%20team.PNG)
+<br />
+<br />
+Name new team: Online Banking  <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/7.2online%20banking%20team.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/7.3%20team%20added.PNG)
+<br />
+<br />
+<h3>Allow anyone to create tickets</h3>
+Admin Panel -> Settings -> User Settings (UNCHECK: Registration Required: Require registration and login to create tickets)  <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/8.1uncheck%20unregistered%20users%20can%20create%20tickets.PNG)
+<br />
+<br />
+<h3>Configure Agents (workers)</h3>
+Admin Panel -> Agents -> Add New <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.1add%20new%20agent.PNG)
+<br />
+<br />
+Agent Jane Doe - Add name, email, and username  <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.2janedoe.PNG)
+<br />
+<br />
+Assign access to primary departments : SysAdmins <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.3access.PNG)
+<br />
+<br />
+Assign permissions <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.4permissions.PNG)
+<br />
+<br />
+Assign the agent a team: Online Banking  <br/>
+Click create
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.5teams.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.6jane%20doe%20added.PNG)
+<br />
+<br />
+Add agent John Doe - Add name, email, and username <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.7add%20agent%20john%20doe.PNG)
+<br />
+<br />
+Assign access to primary departments : Support  <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.8%20access.PNG)
+<br />
+<br />
 
