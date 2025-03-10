@@ -30,19 +30,7 @@ Lorem ipsum
 
 <h2>Program walk-through:</h2>
 
-- [osTicket Configuration](https://github.com/rbrianshutt/osticket_configuration) 
-
-<h3>Set up virtual environment</h3>
-
-Create an Azure Virtual Machine  <br/>
-
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/1.Create%20an%20Azure%20Virtual%20Machine.PNG)
-<br />
-<br />
-Log into the VM with Remote Desktop <br/>
-
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/2.Log%20into%20the%20VM%20with%20Remote%20Desktop.PNG)
-<br />
+- [osTicket Configuration and Set up for Virtual Environment](https://github.com/rbrianshutt/osticket_configuration) 
 
 <h3>Login Pages</h3>
 
