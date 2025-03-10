@@ -42,15 +42,14 @@ Log into the VM with Remote Desktop <br/>
 <br />
 <br />
 <h3>Login Pages</h3>
-Admin/Analyst Login Page:
+Admin/Analyst Login Page: <br/>
 http://localhost/osTicket/scp/login.php  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3%20osTicket%20login.PNG)
 <br />
 <br />
-End Users osTicket URL:
-http://localhost/osTicket 
- <br/>
+End Users osTicket URL:<br/>
+http://localhost/osTicket <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
