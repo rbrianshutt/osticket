@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-Lorem ipsum
+A hands-on lab designed for IT professionals to practice help desk ticketing workflows using osTicket. This lab covers ticket creation, property assignment, SLA management, department structuring, and access control.
 <br />
 
 <h2>Techonologies Used</h2>
