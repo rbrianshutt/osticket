@@ -44,15 +44,6 @@ http://localhost/osTicket <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
 <br />
-Admin Panel <br/>
 
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/4.admin%20panel.PNG)
-<br />
-<br />
-Agent Panel <br/>
-
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/4.agent%20panel.PNG)
-<br />
-<br />
 
 
