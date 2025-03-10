@@ -94,6 +94,7 @@ Click Update <br/>
 <br />
 <br />
 Assign to the team Online Banking <br/>
+Click Assign<br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.9assign%20to%20a%20team.PNG)
 <br />
