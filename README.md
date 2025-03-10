@@ -30,6 +30,7 @@ Lorem ipsum
 
 <h2>Program walk-through:</h2>
 
+<h3>Set up virtual environment</h3>
 Create an Azure Virtual Machine  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/1.Create%20an%20Azure%20Virtual%20Machine.PNG)
@@ -40,7 +41,7 @@ Log into the VM with Remote Desktop <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/2.Log%20into%20the%20VM%20with%20Remote%20Desktop.PNG)
 <br />
 <br />
-
+<h3>Login Pages</h3>
 Admin/Analyst Login Page:
 http://localhost/osTicket/scp/login.php  <br/>
 
