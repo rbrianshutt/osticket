@@ -48,9 +48,6 @@ Click open ticket (seen above) <br/>
 As an end-user, create the following ticket: entire mobile/online banking system is down <br/>
  
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
-<br/>
-<br/>
-
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 <br />
