@@ -44,6 +44,152 @@ http://localhost/osTicket <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
 <br />
+As an end-user, create the following ticket <br/>
+entire mobile/online banking system is down <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
+<br />
+<br />
+As a Help Desk Agent (john), observe the ticket’s properties <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.4%20tickets.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.5observe%20ticket%20properties.PNG)
+<br />
+<br />
+Set Properties to the ticket<br/>
+Sev-A (1 hour, 24/7)<br/>
+Online Banking Department<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
 
 
 
