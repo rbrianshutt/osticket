@@ -1,6 +1,7 @@
 <h1>osTicket Configuration</h1>
-
+<p align="center">
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/osticket-logo1.png)
+</p>
 
 <h2>Description</h2>
 Lorem ipsum
