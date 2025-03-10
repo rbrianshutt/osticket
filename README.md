@@ -59,7 +59,7 @@ Sign in as John  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
 <br/>
 <br/>
-Lorem ipsum  <br/>
+View the current tickets <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.4%20tickets.PNG)
 <br/>
@@ -102,8 +102,7 @@ Assign to the team Online Banking <br/>
 
 <h3>Assign a new ticket</h3>
 
-As an end-user, create the following ticket<br/>
-accounting department needs adobe upgrade, broken <br/>
+As an end-user, create the following ticket: accounting department needs adobe upgrade, broken <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.1create%20ticket.PNG)
 <br />
@@ -144,7 +143,6 @@ Set status to Resolved  <br/>
 Click Close  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.7close%20ticket.PNG)
-<br />
 <br />
 
 <h3>Assign a new ticket</h3>
