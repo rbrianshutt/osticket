@@ -40,6 +40,7 @@ http://localhost/osTicket/scp/login.php  <br/>
 <br />
 End Users osTicket URL:<br/>
 http://localhost/osTicket <br/>
+Click open ticket
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
@@ -59,15 +60,18 @@ As a Help Desk Agent (john), observe the ticket’s properties <br/>
 <br />
 <br />
 Set Properties to the ticket<br/>
-Sev-A (1 hour, 24/7)<br/>
+Click Default SLA Plan
+Select Severity A (1 hour, 24/7)<br/>
 Online Banking Department<br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
-<br />
-<br />
-Lorem ipsum  <br/>
 
-![]()
+<br />
+<br />
+Update Help Topic  <br/>
+Customers not able to access online banking <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.7update%20help%20topic.PNG)
 <br />
 <br />
 Lorem ipsum  <br/>
