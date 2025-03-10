@@ -54,7 +54,7 @@ As an end-user, create the following ticket: entire mobile/online banking system
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 <br />
-Sign in as John  <br/>
+Sign in as john  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
 <br/>
@@ -80,7 +80,6 @@ Set Properties to the ticket<br/>
 - <b>Online Banking Department</b>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
-
 <br />
 <br />
 Update Help Topic  <br/>
