@@ -41,7 +41,6 @@ End Users osTicket URL: http://localhost/osTicket <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
-<br />
 
 <h3>Assign a new ticket</h3>
 
@@ -49,12 +48,19 @@ Click open ticket (seen above) <br/>
 As an end-user, create the following ticket: entire mobile/online banking system is down <br/>
  
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
+<br/>
+<br/>
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 <br />
-Lorem ipsum  <br/>
+Sign in as John  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
+<br/>
+<br/>
+Lorem ipsum  <br/>
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.4%20tickets.PNG)
 <br/>
 <br/>
