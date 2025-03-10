@@ -42,7 +42,7 @@ End Users osTicket URL: http://localhost/osTicket <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
 
-<h3>Assign a new ticket</h3>
+<h2>Assign a new ticket</h2>
 
 Click open ticket (seen above) <br/>
 As an end-user, create the following ticket: "entire mobile/online banking system is down" <br/>
@@ -98,7 +98,7 @@ Assign to the team Online Banking <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.9assign%20to%20a%20team.PNG)
 <br />
 
-<h3>Assign a new ticket</h3>
+<h2>Assign a new ticket</h2>
 
 As an end-user, create the following ticket: "accounting department needs adobe upgrade, broken" <br/>
 
@@ -152,7 +152,7 @@ Click Close  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.7close%20ticket.PNG)
 <br />
 
-<h3>Assign a new ticket</h3>
+<h2>Assign a new ticket</h2>
 
 As an end-user, create the following ticket: "CFO’s laptop will no longer turn on" <br/>
 
