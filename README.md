@@ -72,7 +72,7 @@ As a Help Desk Agent (john), observe the ticket’s properties <br/>
 <br />
 <br />
 Set Properties to the ticket<br/>
-- <b>Click Default SLA Plan</b> 
+- <b>Click Default SLA Plan(pictured above)</b> 
 - <b>Select Severity A (1 hour, 24/7)</b>
 - <b>Online Banking Department</b>
 
