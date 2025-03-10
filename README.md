@@ -1,4 +1,4 @@
-<h1>Lorem ipsum</h1>
+<h1>osTicket Configuration</h1>
 
 ![]()
 
@@ -30,7 +30,8 @@ Lorem ipsum
 
 <h2>Program walk-through:</h2>
 
-Admin Panel  <br/>
+Admin/Analyst Login Page:
+http://localhost/osTicket/scp/login.php  <br/>
 
 ![]()
 <br />
