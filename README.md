@@ -160,4 +160,129 @@ Assign access to primary departments : Support  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.8%20access.PNG)
 <br />
 <br />
+Assign permissions <br/>
 
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.9persmissions.PNG)
+<br />
+<br />
+Assign a team if need  <br/>
+Click create <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.10agents.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.11agent%20added.PNG)
+<br />
+<br />
+<h3>Configure Users (customers)</h3>
+Agent Panel -> Users -> Add New <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/10.1add%20user.PNG)
+<br />
+<br />
+Enter user name Karen and email address  <br/>
+Click Add user  <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/10.2karen.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/10.3user%20added.PNG)
+<br />
+<br />
+<h3>Configure SLA</h3>
+Admin Panel -> Manage -> SLA  <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/11.1add%20sla.PNG)
+<br />
+<br />
+Enter name: Severity A  <br/>
+Grace period: 1 hr<br/>
+Schedule: 24/7<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/11.2severity%20a.PNG)
+<br />
+<br />
+Enter name: Severity B  <br/>
+Grace period: 4 hr<br/>
+Schedule: 24/7<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/11.3severity%20b.PNG)
+<br />
+<br />
+Enter name: Severity C  <br/>
+Grace period: 8 hr<br/>
+Schedule: Business Hours<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/11.4severity%20c.PNG)
+![](hub.com/rbrianshutt/osticket/blob/main/osTicket/11.5severity%20added.PNG)
+<br />
+<br />
+<h3>Configure Help Topics (For when users create a ticket)</h3>
+Admin Panel -> Manage -> Help Topics<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.1add%20new%20help%20topic.PNG)
+<br />
+<br />
+Enter topic: Business Critical Outage <br/>
+Parent topic: Report a problem<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.2business%20critical%20outage.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.3business%20critical%20added.PNG)
+<br />
+<br />
+Enter topic: Personal Computer Issues<br/>
+Parent topic: Report a problem<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.4personal%20computer%20issues.PNG)
+<br />
+<br />
+Enter topic: Equipment Request<br/>
+Parent topic: General Inquiry<br/>
+
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.5equipment%20request.PNG)
+<br />
+<br />
+Enter topic: Password Reset<br/>
+Parent topic: Report a problem<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.6password%20reset.PNG)
+<br />
+<br />
+Enter topic: Other<br/>
+Parent topic: General Inquiry<br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.7other.PNG)
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
