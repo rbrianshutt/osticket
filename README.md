@@ -94,7 +94,6 @@ Assign to the team Online Banking <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.9assign%20to%20a%20team.PNG)
 <br />
-<br />
 
 <h3>Assign a new ticket</h3>
 
@@ -131,6 +130,11 @@ Update ticket again  <br/>
 "Restart fixed issue.  Closing out ticket" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.5update%20ticket%20again.PNG)
+<br/>
+<br/>
+To resolve ticket, hover over current status (Open) <br/>
+Click Resolved <br/>
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.6resolve%20ticket.PNG)
 
 <br />
@@ -182,7 +186,6 @@ To resolve ticket, hover over current status (Open) <br/>
 Click Resolved <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.8resolve%20ticket.PNG)
-
 <br />
 <br />
 Set status to Resolved <br/>
