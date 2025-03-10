@@ -45,6 +45,7 @@ Log into the VM with Remote Desktop <br/>
 <br />
 <br />
 <h3>Login Pages</h3>
+
 Admin/Analyst Login Page: <br/>
 http://localhost/osTicket/scp/login.php  <br/>
 
