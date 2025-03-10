@@ -45,7 +45,7 @@ End Users osTicket URL: http://localhost/osTicket <br/>
 <h3>Assign a new ticket</h3>
 
 Click open ticket (seen above) <br/>
-As an end-user, create the following ticket: entire mobile/online banking system is down <br/>
+As an end-user, create the following ticket: "entire mobile/online banking system is down" <br/>
  
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
@@ -80,12 +80,12 @@ Set Properties to the ticket<br/>
 <br />
 <br />
 Update Help Topic  <br/>
-Customers not able to access online banking <br/>
+"Customers not able to access online banking" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.7update%20help%20topic.PNG)
 <br />
 <br />
-View the log of documentation <br/>
+"View the log of documentation" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.8view%20log%20of%20documentation.PNG)
 <br />
@@ -98,7 +98,7 @@ Assign to the team Online Banking <br/>
 
 <h3>Assign a new ticket</h3>
 
-As an end-user, create the following ticket: accounting department needs adobe upgrade, broken <br/>
+As an end-user, create the following ticket: "accounting department needs adobe upgrade, broken" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.1create%20ticket.PNG)
 <br />
@@ -122,13 +122,13 @@ Set Properties to the ticket <br/>
 <br />
 <br />
 Update the ticket  <br/>
-Customer will restart.  Will follow up with customer  <br/>
+"Customer will restart.  Will follow up with customer"  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.4update%20ticket.PNG)
 <br />
 <br />
 Update ticket again  <br/>
-Restart fixed issue.  Closing out ticket <br/>
+"Restart fixed issue.  Closing out ticket" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.5update%20ticket%20again.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.6resolve%20ticket.PNG)
@@ -143,8 +143,7 @@ Click Close  <br/>
 
 <h3>Assign a new ticket</h3>
 
-As an end-user, create the following ticket  <br/>
-CFO’s laptop will no longer turn on <br/>
+As an end-user, create the following ticket: "CFO’s laptop will no longer turn on" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.1create%20ticket.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.2view%20ticket.PNG)
@@ -174,7 +173,7 @@ Update Priority Level to Emergency  <br/>
 <br />
 <br />
 Update the ticket  <br/>
-Laptop not charging due to broken charger. Replaced broken charger with new charger.  Charging succesfully.
+"Laptop not charging due to broken charger. Replaced broken charger with new charger.  Charging succesfully." <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.7update%20ticket.PNG)
 <br />
@@ -187,7 +186,7 @@ Click Resolved <br/>
 <br />
 <br />
 Set status to Resolved <br/>
-Charger was broken and battery ran out of power. New charger resolved issue. <br/>
+"Charger was broken and battery ran out of power. New charger resolved issue." <br/>
 Click Close <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.9close%20ticket.PNG)
