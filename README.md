@@ -32,15 +32,12 @@ Lorem ipsum
 
 <h3>Login Pages</h3>
 
-Admin/Analyst Login Page: <br/>
-http://localhost/osTicket/scp/login.php  <br/>
+Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3%20osTicket%20login.PNG)
 <br />
 <br />
-End Users osTicket URL:<br/>
-http://localhost/osTicket <br/>
-Click open ticket
+End Users osTicket URL: http://localhost/osTicket <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3.1.support%20center.PNG)
 <br />
@@ -48,13 +45,19 @@ Click open ticket
 
 <h3>Assign a new ticket</h3>
 
-As an end-user, create the following ticket <br/>
-entire mobile/online banking system is down <br/>
-
+Click open ticket (seen above) <br/>
+As an end-user, create the following ticket: entire mobile/online banking system is down <br/>
+ 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 <br />
+Lorem ipsum  <br/>
+
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.4%20tickets.PNG)
+<br/>
+<br/>
 As a Help Desk Agent (john), observe the ticket’s properties <br/>
 
 - <b>Priority</b> 
@@ -62,8 +65,6 @@ As a Help Desk Agent (john), observe the ticket’s properties <br/>
 - <b>SLA</b>
 - <b>Assigned To</b>
 
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.4%20tickets.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.5observe%20ticket%20properties.PNG)
 <br />
 <br />
