@@ -1,4 +1,4 @@
-<h1Lorem ipsum</h1>
+<h1>Lorem ipsum</h1>
 
 ![]()
 
@@ -29,3 +29,71 @@ Lorem ipsum
 - <b>HeidiSQL</b>
 
 <h2>Program walk-through:</h2>
+
+Admin Panel  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+Lorem ipsum  <br/>
+
+![]()
+<br />
+<br />
+
+
