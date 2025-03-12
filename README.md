@@ -31,7 +31,7 @@ A hands-on lab designed for IT professionals to practice help desk ticketing wor
 - <b>Create Azure VM</b> 
 - <b>Configure osTicket</b>
 - <b>Setup osTicket Environment</b>
-- <bCreate and Resolve Tickets</b>
+- <b>Create and Resolve Tickets</b>
 
 <h2>Program walk-through:</h2>
 
