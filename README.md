@@ -92,7 +92,7 @@ Click Update <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.7update%20help%20topic.PNG)
 <br />
 
-"View the log of documentation" <br/>
+View the log of documentation <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.8view%20log%20of%20documentation.PNG)
 <br />
