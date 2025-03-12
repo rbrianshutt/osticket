@@ -207,7 +207,7 @@ Click Close <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.9close%20ticket.PNG)
 <br />
 
-<br />See there are no more tickets remaining <br/>
+See there are no more tickets remaining <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.10%20no%20tickets.PNG)
 <br />
