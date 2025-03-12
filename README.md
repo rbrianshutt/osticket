@@ -35,7 +35,8 @@ A hands-on lab designed for IT professionals to practice help desk ticketing wor
 
 <h2>Program walk-through:</h2>
 
-- [osTicket Configuration and Set up for Virtual Environment](https://github.com/rbrianshutt/osticket_configuration) 
+- [osTicket Configuration and Set up for Virtual Environment](https://github.com/rbrianshutt/osticket_configuration)
+- [Create and Resolve Tickets](https://github.com/rbrianshutt/osticket_tickets/blob/main/README.md)
 
 <h2>Create an Resolve Tickets</h2>
 
