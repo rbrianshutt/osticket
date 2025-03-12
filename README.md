@@ -26,9 +26,18 @@ A hands-on lab designed for IT professionals to practice help desk ticketing wor
 - <b>MySQL 5.5.62 (mysql-5.5.62-win32.msi)</b> 
 - <b>HeidiSQL</b>
 
+<h2>Overview:</h2>
+
+- <b>Create Azure VM</b> 
+- <b>Configure osTicket</b>
+- <b>Setup osTicket Environment</b>
+- <bCreate and Resolve Tickets</b>
+
 <h2>Program walk-through:</h2>
 
 - [osTicket Configuration and Set up for Virtual Environment](https://github.com/rbrianshutt/osticket_configuration) 
+
+<h2>Create an Resolve Tickets</h2>
 
 <h3>Login Pages</h3>
 
