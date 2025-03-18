@@ -1,4 +1,4 @@
-<h1>osTicket</h1>
+<h1>osTicket - Help Desk Ticketing System</h1>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osticket-logo.png)
 
